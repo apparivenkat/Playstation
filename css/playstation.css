@@ -38,7 +38,7 @@ nav ul li{
 
 nav ul li a{
     text-decoration: none;
-    color: #000;
+    color: blueviolet;
     font-size: 14px;
 }
 
@@ -165,7 +165,7 @@ button:hover{
 @media only screen and (max-width:700px){
     nav ul{
         width: 100%;
-        background: linear-gradient((#ff54a2, #ff575a));
+        background: linear-gradient((#54a2, #ff575a));
         position: absolute;
         top: 75px;
         right: 0;
